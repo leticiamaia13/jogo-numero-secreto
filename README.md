@@ -15,19 +15,19 @@ O **Jogo do Amigo Secreto** é uma aplicação divertida e prática para realiza
    Execute o comando abaixo para clonar o repositório:
    ```bash
    git clone https://github.com/leticiamaia13/jogo-numero-secreto.git
-Abrir o Jogo
+2. **Abrir o Jogo**
 Navegue até a pasta do projeto e abra o arquivo index.html em seu navegador.
 
-Adicionar Amigos
+3. **Adicionar Amigos**
 Digite os nomes dos seus amigos no campo de entrada e clique em "Adicionar" para adicioná-los à lista.
 
-Realizar o Sorteio
+4. **Realizar o Sorteio**
 Clique em "Sortear Amigo" para descobrir quem é o seu amigo secreto.
 
-Reiniciar o Sorteio
+5. **Reiniciar o Sorteio**
 Para iniciar um novo sorteio, clique em "Limpar Lista de Amigos".
 
 ## **Tecnologias Utilizadas**
-HTML: Estrutura da página e conteúdo.
-CSS: Estilos para a interface do usuário.
-JavaScript: Lógica do sorteio e interatividade.
+* HTML:  Estrutura da página e conteúdo.
+* CSS: Estilos para a interface do usuário.
+* JavaScript: Lógica do sorteio e interatividade.
